@@ -9,9 +9,23 @@ A complete end-to-end BI project built during my internship at Ethiopian Airline
 - Built and automated loading for Dimension and Fact tables, including robust Date Lookup logic
 - Applied advanced data flow handling using lookups, sort, and data conversion transformations
 
-### 📊 Power BI Dashboard
+### 📊 Power BI Dashboard Screenshots
 
+#### 1. Overview
 ![Dashboard Overview](./PowerBI/Dashboard_Overview.png)
+
+#### 2. Transit KPIs
+![Transit KPIs](./PowerBI/Dashboard_TransitKPIs.png)
+
+#### 3. No-Show KPIs
+![No-Show KPIs](./PowerBI/Dashboard_NoShowKPIs.png)
+
+#### 4. Hotel Distribution
+![Hotel Distribution](./PowerBI/Dashboard_HotelDistribution.png)
+
+#### 5. Revenue Impact
+![Revenue Impact](./PowerBI/Dashboard_RevenueImpact.png)
+
 
 Interactive dashboards built with DAX for monitoring key airline KPIs:
 
