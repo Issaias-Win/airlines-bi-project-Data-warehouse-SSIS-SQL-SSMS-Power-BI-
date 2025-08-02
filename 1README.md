@@ -1,0 +1,44 @@
+# ✈️ Transit & No-Show Passenger Analytics – Data Warehouse + Power BI Dashboard
+
+## Overview
+A complete end-to-end BI project built during my internship at Ethiopian Airlines and AHRI. The goal was to consolidate passenger data and build actionable KPIs to support airline business operations using SSIS, SQL Server, and Power BI.
+
+## ETL Pipeline (SSIS)
+- Designed a Data Warehouse by integrating 5 tables (BookedPassengers, Passengers, Hotels, HotelBookings, NoShowPassengers)
+- Resolved complex data type conflicts, especially datetime2 and NTEXT conversions
+- Built and automated loading for Dimension and Fact tables, including robust Date Lookup logic
+- Applied advanced data flow handling using lookups, sort, and data conversion transformations
+
+## Power BI Dashboard
+Interactive dashboards built with DAX for monitoring key airline KPIs:
+
+### 🧭 Transit Passenger KPIs:
+- Transit passengers by day/week/month
+- Growth rate and average transit duration
+- Airlines contributing most to transit flow
+- Hotel distribution and top destination breakdown
+
+### ❌ No-Show Passenger KPIs:
+- No-show trends by booking class, sector, and route
+- No-show rate calculation
+- Revenue loss estimation
+- Daily/weekly/monthly analysis
+
+### 🔍 Filtering Options
+- Date range selector (calendar, custom range)
+- Flight route
+- Passenger type (Transit / No-show)
+- Booking class
+- Peak hours
+
+## Tech Stack
+- SSIS (ETL Pipelines)
+- SQL Server 2019
+- Power BI (DAX, Measures, Visuals)
+- SSMS (T-SQL Querying, Debugging)
+
+## What I Learned
+- Real-world Data Warehousing (dimensional modeling, ETL troubleshooting)
+- Visual storytelling using KPIs
+- Stakeholder-focused report development
+- Transferable business intelligence workflows
