@@ -42,3 +42,11 @@ Interactive dashboards built with DAX for monitoring key airline KPIs:
 - Visual storytelling using KPIs
 - Stakeholder-focused report development
 - Transferable business intelligence workflows
+
+  ### 🗃️ Data Warehouse Schema
+
+- [FactPassengerActivity](./SQL/Create_FactPassengerActivity.sql)
+- [DimHotel](./SQL/Create_DimHotel.sql)
+- [DimStation](./SQL/Create_DimStation.sql)
+- [DimDate](./SQL/Create_DimDate.sql)
+
