@@ -61,6 +61,7 @@ Interactive dashboards built with DAX for monitoring key airline KPIs:
 
 #### 4. Lookup: DimHotel
 ![DimHotel Lookup](./SSIS/SSIS_04_LookupDimHotel.png)
+
 ## Tech Stack
 - SSIS (ETL Pipelines)
 - SQL Server 2019
