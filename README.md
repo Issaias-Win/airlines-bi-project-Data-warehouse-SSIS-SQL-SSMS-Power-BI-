@@ -82,26 +82,6 @@ Interactive dashboards built with DAX for monitoring key airline KPIs:
 #### 5. Revenue Impact
 ![Revenue Impact](./PowerBI/Dashboard_RevenueImpact.png)
 
-
-### 🧭 Transit Passenger KPIs:
-- Transit passengers by day/week/month
-- Growth rate and average transit duration
-- Airlines contributing most to transit flow
-- Hotel distribution and top destination breakdown
-
-### ❌ No-Show Passenger KPIs:
-- No-show trends by booking class, sector, and route
-- No-show rate calculation
-- Revenue loss estimation
-- Daily/weekly/monthly analysis
-
-### 🔍 Filtering Options
-- Date range selector (calendar, custom range)
-- Flight route
-- Passenger type (Transit / No-show)
-- Booking class
-- Peak hours
-
 ### 🔁 SSIS ETL Pipeline Screenshots
 
 #### 1. Extracting from Source View
