@@ -7,7 +7,6 @@ This project is a complete end-to-end Business Intelligence (BI) solution develo
 Key outcomes include the development of a robust ETL pipeline using SSIS, daily-scheduled data extraction, and an interactive Power BI report that visualizes KPIs across time periods, flight routes, booking classes, and passenger types.
 
 ## 🔧 Project Components
-**Data Extraction:** Automated daily extraction from local SQL Server databases using SSIS
 
 **Data Extraction:** Automated daily extraction from local SQL Server databases using SSIS
 
@@ -97,35 +96,25 @@ Interactive dashboards built with DAX for monitoring key airline KPIs:
 
 ## 💡 What I Learned
 
-#### Real-world Data Warehousing 
-Dimensional modeling, fact-dimension schema, ETL design, and troubleshooting (SSIS)
+ **Real-world Data Warehousing:** Dimensional modeling, fact-dimension schema, ETL design, and troubleshooting (SSIS)
 
-#### Power BI 
-Dashboard design using various visuals (bar charts, cards, maps, tables), slicers for interactivity, and storytelling through KPIs
+**Power BI:** Dashboard design using various visuals (bar charts, cards, maps, tables), slicers for interactivity, and storytelling through KPIs
 
-#### DAX 
-Creating custom measures for business metrics like no-show rate, growth, revenue impact, and transit duration
+**DAX:** Creating custom measures for business metrics like no-show rate, growth, revenue impact, and transit duration
 
-#### SQL Server Management Studio (SSMS): 
-Writing and debugging complex SQL queries, creating and managing views, and accessing relational databases
+ **SQL Server Management Studio (SSMS):** Writing and debugging complex SQL queries, creating and managing views, and accessing relational databases
 
-#### Data cleaning and preprocessing
-Resolving nulls, converting data types (e.g., NTEXT to NVARCHAR), and ensuring referential integrity
+**Data cleaning and preprocessing:** Resolving nulls, converting data types (e.g., NTEXT to NVARCHAR), and ensuring referential integrity
 
-#### End-to-end BI workflow 
-From data extraction and transformation to visualization and decision support
+ **End-to-end BI workflow:** From data extraction and transformation to visualization and decision support
 
-#### Communication and collaboration 
-Working with system admins to access and prepare operational data
+**Communication and collaboration:** Working with system admins to access and prepare operational data
 
-#### Presenting data findings
-Explaining insights clearly to non-technical stakeholders using visuals and business language
+**Presenting data findings:** Explaining insights clearly to non-technical stakeholders using visuals and business language
 
-#### Stakeholder-focused report development 
-Aligning dashboard design and KPIs with airline operations, hotel booking, and customer behavior
+ **Stakeholder-focused report development:** Aligning dashboard design and KPIs with airline operations, hotel booking, and customer behavior
 
-#### Transferable business intelligence workflows: 
-Applicable across industries for reporting, analysis, and decision-making
+**Transferable business intelligence workflows:** Applicable across industries for reporting, analysis, and decision-making
 
 
   ## 🗃️ Data Warehouse Schema
