@@ -51,8 +51,6 @@ Interactive dashboards built with DAX for monitoring key airline KPIs:
 - 
 ### 🔁 SSIS ETL Pipeline Screenshots
 
-### 🔁 SSIS ETL Pipeline Screenshots
-
 #### 1. Extracting from Source View
 ![Extract View](./SSIS_Screenshots/SSIS_01_ExtractView.png)
 
@@ -85,25 +83,35 @@ Interactive dashboards built with DAX for monitoring key airline KPIs:
 
 ### 💡 What I Learned
 
-#### Real-world Data Warehousing: dimensional modeling, fact-dimension schema, ETL design, and troubleshooting (SSIS)
+#### Real-world Data Warehousing: 
+dimensional modeling, fact-dimension schema, ETL design, and troubleshooting (SSIS)
 
-Power BI: dashboard design using various visuals (bar charts, cards, maps, tables), slicers for interactivity, and storytelling through KPIs
+####Power BI: 
+dashboard design using various visuals (bar charts, cards, maps, tables), slicers for interactivity, and storytelling through KPIs
 
-DAX: creating custom measures for business metrics like no-show rate, growth, revenue impact, and transit duration
+####DAX: 
+creating custom measures for business metrics like no-show rate, growth, revenue impact, and transit duration
 
-SQL Server Management Studio (SSMS): writing and debugging complex SQL queries, creating and managing views, and accessing relational databases
+####SQL Server Management Studio (SSMS): 
+writing and debugging complex SQL queries, creating and managing views, and accessing relational databases
 
-Data cleaning and preprocessing: resolving nulls, converting data types (e.g., NTEXT to NVARCHAR), and ensuring referential integrity
+####Data cleaning and preprocessing: 
+resolving nulls, converting data types (e.g., NTEXT to NVARCHAR), and ensuring referential integrity
 
-End-to-end BI workflow: from data extraction and transformation to visualization and decision support
+####End-to-end BI workflow: 
+from data extraction and transformation to visualization and decision support
 
-Communication and collaboration: working with system admins to access and prepare operational data
+####Communication and collaboration: 
+working with system admins to access and prepare operational data
 
-Presenting data findings: explaining insights clearly to non-technical stakeholders using visuals and business language
+####Presenting data findings:
+explaining insights clearly to non-technical stakeholders using visuals and business language
 
-Stakeholder-focused report development: aligning dashboard design and KPIs with airline operations, hotel booking, and customer behavior
+####Stakeholder-focused report development: 
+aligning dashboard design and KPIs with airline operations, hotel booking, and customer behavior
 
-Transferable business intelligence workflows: applicable across industries for reporting, analysis, and decision-making
+####Transferable business intelligence workflows: 
+applicable across industries for reporting, analysis, and decision-making
 
   ## 🗃️ Data Warehouse Schema
 
