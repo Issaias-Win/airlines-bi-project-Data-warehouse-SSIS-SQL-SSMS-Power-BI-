@@ -19,15 +19,15 @@ Key outcomes include the development of a robust ETL pipeline using SSIS, daily-
 
 ## ✅ ETL Pipeline Development (SSIS)
 
--Designed and implemented a star-schema Data Warehouse by integrating five operational tables (BookedPassengers, Passengers, Hotels, HotelBookings, NoShowPassengers)
+- Designed and implemented a star-schema Data Warehouse by integrating five operational tables (BookedPassengers, Passengers, Hotels, HotelBookings, NoShowPassengers)
 
--Resolved complex data type issues, including datetime2 precision mismatches and NTEXT to NVARCHAR conversions
+- Resolved complex data type issues, including datetime2 precision mismatches and NTEXT to NVARCHAR conversions
 
--Built and automated data flow pipelines to load dimension and fact tables with referential integrity
+- Built and automated data flow pipelines to load dimension and fact tables with referential integrity
 
--Applied advanced SSIS transformations such as Lookups, Sort, Conditional Splits, and Data Conversion for clean and consistent data flow
+- Applied advanced SSIS transformations such as Lookups, Sort, Conditional Splits, and Data Conversion for clean and consistent data flow
 
--Developed a robust DimDate logic to handle surrogate keys and null-safe joins in time-based reporting
+- Developed a robust DimDate logic to handle surrogate keys and null-safe joins in time-based reporting
 
 
 
