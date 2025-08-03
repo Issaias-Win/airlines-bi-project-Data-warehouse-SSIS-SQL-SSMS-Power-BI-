@@ -16,11 +16,20 @@ Key outcomes include the development of a robust ETL pipeline using SSIS, daily-
 
 **Power BI Reporting:** Visual KPIs, interactive filtering, and DAX-based metrics
 
-## ETL Pipeline (SSIS)
-- Designed a Data Warehouse by integrating 5 tables (BookedPassengers, Passengers, Hotels, HotelBookings, NoShowPassengers)
-- Resolved complex data type conflicts, especially datetime2 and NTEXT conversions
-- Built and automated loading for Dimension and Fact tables, including robust Date Lookup logic
-- Applied advanced data flow handling using lookups, sort, and data conversion transformations
+
+## ✅ ETL Pipeline Development (SSIS)
+
+-Designed and implemented a star-schema Data Warehouse by integrating five operational tables (BookedPassengers, Passengers, Hotels, HotelBookings, NoShowPassengers)
+
+-Resolved complex data type issues, including datetime2 precision mismatches and NTEXT to NVARCHAR conversions
+
+-Built and automated data flow pipelines to load dimension and fact tables with referential integrity
+
+-Applied advanced SSIS transformations such as Lookups, Sort, Conditional Splits, and Data Conversion for clean and consistent data flow
+
+-Developed a robust DimDate logic to handle surrogate keys and null-safe joins in time-based reporting
+
+
 
 ### 📊 Power BI Dashboard Screenshots
 
