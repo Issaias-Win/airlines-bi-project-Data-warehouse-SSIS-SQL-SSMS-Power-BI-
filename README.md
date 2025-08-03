@@ -32,7 +32,7 @@ Key outcomes include the development of a robust ETL pipeline using SSIS, daily-
 
 
 ### 📊 Power BI Dashboard Screenshots
-
+Interactive dashboards built with DAX for monitoring key airline KPIs:
 #### 1. Overview
 
 ![Dashboard Overview](./PowerBI/Dashboard_Overview.png)
@@ -49,8 +49,6 @@ Key outcomes include the development of a robust ETL pipeline using SSIS, daily-
 #### 5. Revenue Impact
 ![Revenue Impact](./PowerBI/Dashboard_RevenueImpact.png)
 
-
-Interactive dashboards built with DAX for monitoring key airline KPIs:
 
 ### 🧭 Transit Passenger KPIs:
 - Transit passengers by day/week/month
