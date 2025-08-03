@@ -29,7 +29,40 @@ Key outcomes include the development of a robust ETL pipeline using SSIS, daily-
 
 - Developed a robust DimDate logic to handle surrogate keys and null-safe joins in time-based reporting
 
+## 📌 Key Performance Indicators (KPIs)
+### Transit Passengers
 
+- Total transit passengers (daily, weekly, monthly)
+
+- Growth rate and average transit duration
+
+- % by destination and contributing airlines
+
+- Peak transit hours
+
+- Hotel distribution among transit passengers
+
+### No-Show Passengers
+
+- Total no-shows by date and route
+
+- No-show rate (vs. total bookings)
+
+- Revenue loss estimation
+
+- Breakdown by sector and booking class
+
+### Interactive Filters
+
+- Date range (custom/daily/weekly/monthly)
+
+- Flight route
+
+- Passenger type (transit or no-show)
+
+- Booking class
+
+- Peak hour selection
 
 ### 📊 Power BI Dashboard Screenshots
 Interactive dashboards built with DAX for monitoring key airline KPIs:
