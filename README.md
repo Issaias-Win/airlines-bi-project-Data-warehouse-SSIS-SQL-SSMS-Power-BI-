@@ -47,7 +47,20 @@ Interactive dashboards built with DAX for monitoring key airline KPIs:
 - Passenger type (Transit / No-show)
 - Booking class
 - Peak hours
+- 
+### 🔁 SSIS ETL Pipeline Screenshots
 
+#### 1. Extracting from Source View
+![Extract View](./SSIS/SSIS_01_ExtractView.png)
+
+#### 2. Converting NTEXT to NVARCHAR
+![Data Conversion](./SSIS/SSIS_02_DataConversion.png)
+
+#### 3. Lookup: DimStation
+![DimStation Lookup](./SSIS/SSIS_03_LookupDimStation.png)
+
+#### 4. Lookup: DimHotel
+![DimHotel Lookup](./SSIS/SSIS_04_LookupDimHotel.png)
 ## Tech Stack
 - SSIS (ETL Pipelines)
 - SQL Server 2019
