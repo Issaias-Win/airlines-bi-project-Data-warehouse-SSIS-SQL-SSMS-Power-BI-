@@ -51,15 +51,31 @@ Interactive dashboards built with DAX for monitoring key airline KPIs:
 - 
 ### 🔁 SSIS ETL Pipeline Screenshots
 
+### 🔁 SSIS ETL Pipeline Screenshots
+
+#### 1. Extracting from Source View
 ![Extract View](./SSIS_Screenshots/SSIS_01_ExtractView.png)
 
+#### 2. Converting NTEXT to NVARCHAR
 ![Data Conversion](./SSIS_Screenshots/SSIS_02_DataConversion.png)
 
+#### 3. Lookup: DimStation
 ![DimStation Lookup](./SSIS_Screenshots/SSIS_03_LookupDimStation.png)
 
+#### 4. Lookup: DimHotel
 ![DimHotel Lookup](./SSIS_Screenshots/SSIS_04_LookupDimHotel.png)
 
+#### 5. Lookup: DimDate
+![DimDate Lookup](./SSIS_Screenshots/SSIS_05_LookupDimDate.png)
 
+#### 6. Load Fact Table
+![Load Fact Table](./SSIS_Screenshots/SSIS_07_LoadFactTable.png)
+
+#### 7. Package Execution
+![Package Execution](./SSIS_Screenshots/SSIS_08_PackageExecution.png)
+
+#### 8. Final ETL Pipeline Overview
+![Final Pipeline](./SSIS_Screenshots/SSIS_09_FinalPipeline.png)
 
 ## Tech Stack
 - SSIS (ETL Pipelines)
