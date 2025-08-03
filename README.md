@@ -53,6 +53,7 @@ Interactive dashboards built with DAX for monitoring key airline KPIs:
 
 #### 1. Extracting from Source View
 ![Extract View](./SSIS/SSIS_01_ExtractView.png)
+![Extract View](./SSIS/SSIS_01_ExtractView.png)
 
 #### 2. Converting NTEXT to NVARCHAR
 ![Data Conversion](./SSIS/SSIS_02_DataConversion.png)
