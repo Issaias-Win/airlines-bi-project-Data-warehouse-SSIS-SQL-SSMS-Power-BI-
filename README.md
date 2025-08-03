@@ -12,7 +12,7 @@ A complete end-to-end BI project built during my internship at Ethiopian Airline
 ### 📊 Power BI Dashboard Screenshots
 
 #### 1. Overview
-![Extract View](./SSIS/SSIS_01_ExtractView.png)
+
 
 
 #### 2. Transit KPIs
