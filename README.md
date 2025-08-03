@@ -7,13 +7,15 @@ This project is a complete end-to-end Business Intelligence (BI) solution develo
 Key outcomes include the development of a robust ETL pipeline using SSIS, daily-scheduled data extraction, and an interactive Power BI report that visualizes KPIs across time periods, flight routes, booking classes, and passenger types.
 
 ## 🔧 Project Components
-Data Extraction: Automated daily extraction from local SQL Server databases using SSIS
+**Data Extraction:** Automated daily extraction from local SQL Server databases using SSIS
 
-Data Warehousing: Staging and loading into a star-schema BI warehouse
+**Data Extraction:** Automated daily extraction from local SQL Server databases using SSIS
 
-Data Transformation: Cleaning, deduplication, lookup resolution, and data type conversion (e.g., NTEXT to NVARCHAR)
+**Data Warehousing:** Staging and loading into a star-schema BI warehouse
 
-Power BI Reporting: Visual KPIs, interactive filtering, and DAX-based metrics
+**Data Transformation:** Cleaning, deduplication, lookup resolution, and data type conversion (e.g., NTEXT to NVARCHAR)
+
+**Power BI Reporting:** Visual KPIs, interactive filtering, and DAX-based metrics
 
 ## ETL Pipeline (SSIS)
 - Designed a Data Warehouse by integrating 5 tables (BookedPassengers, Passengers, Hotels, HotelBookings, NoShowPassengers)
