@@ -83,11 +83,27 @@ Interactive dashboards built with DAX for monitoring key airline KPIs:
 - Power BI (DAX, Measures, Visuals)
 - SSMS (T-SQL Querying, Debugging)
 
-## What I Learned
-- Real-world Data Warehousing (dimensional modeling, ETL troubleshooting)
-- Visual storytelling using KPIs
-- Stakeholder-focused report development
-- Transferable business intelligence workflows
+💡 What I Learned
+
+**Real-world Data Warehousing: ** dimensional modeling, fact-dimension schema, ETL design, and troubleshooting (SSIS)
+
+Power BI: dashboard design using various visuals (bar charts, cards, maps, tables), slicers for interactivity, and storytelling through KPIs
+
+DAX: creating custom measures for business metrics like no-show rate, growth, revenue impact, and transit duration
+
+SQL Server Management Studio (SSMS): writing and debugging complex SQL queries, creating and managing views, and accessing relational databases
+
+Data cleaning and preprocessing: resolving nulls, converting data types (e.g., NTEXT to NVARCHAR), and ensuring referential integrity
+
+End-to-end BI workflow: from data extraction and transformation to visualization and decision support
+
+Communication and collaboration: working with system admins to access and prepare operational data
+
+Presenting data findings: explaining insights clearly to non-technical stakeholders using visuals and business language
+
+Stakeholder-focused report development: aligning dashboard design and KPIs with airline operations, hotel booking, and customer behavior
+
+Transferable business intelligence workflows: applicable across industries for reporting, analysis, and decision-making
 
   ### 🗃️ Data Warehouse Schema
 
